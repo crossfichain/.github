@@ -1,6 +1,6 @@
 # 🚀 CrossFiChain
 
-![CrossFi Chain](https://img.shields.io/badge/CrossFiChain-DeFi%20Interoperability-blue.svg) ![GitHub license](https://img.shields.io/github/license/crossfichain/crossfi-node) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+![CrossFi Chain](https://img.shields.io/badge/CrossFiChain-DeFi%20Interoperability-blue.svg) ![GitHub license](https://img.shields.io/github/license/crossfichain/.github) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
 Welcome to **CrossFiChain**, the next-generation cross-chain interoperability protocol for decentralized finance (DeFi). Our mission is to seamlessly connect blockchain networks, enabling secure and efficient asset transfers across multiple ecosystems.
 
